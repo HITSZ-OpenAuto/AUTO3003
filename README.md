@@ -55,7 +55,10 @@
 1. 考核由老师现场验收任务的完成情况。陈老师比吴老师严。
 2. 答辩由助教负责，展示一下任务完成的思路，基本上不可能为难你。
 
-至于你最想要的，我当然有：[MaxwellJay256/DDR4](https://github.com/MaxwellJay256/DDR4)。
+至于你最想要的：
+
+- [MaxwellJay256/DDR4](https://github.com/MaxwellJay256/DDR4)
+- [longlin 的课设幻灯片](https://pre.longlin.tech/)
 
 ## 学习建议
 
