@@ -1,0 +1,177 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765540,
+    "hash": "32f1f63074e10993becec509b36d6c98677a18ab"
+  },
+  ".hoa/worktree.json": {
+    "size": 5099,
+    "time": 1751764133,
+    "hash": "375c3812f44cf6fa99a9668a56c81d1d05859a00"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083214,
+    "hash": "afeec94643ccf6ecee691387087eb4a48d3b1d39"
+  },
+  "README.md": {
+    "size": 3762,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "_config.yml": {
+    "size": 145,
+    "time": 1698740487,
+    "hash": "4b5ec4fcd45031b91ac62751f51a65b4d8eff924"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737639400,
+    "hash": "ff79df913d5699e2f941d7bc3ff3f3e9b0a79b50"
+  },
+  "assignments/2023_WJD/210320621_hw1.pdf": {
+    "size": 146406,
+    "time": 1738554654,
+    "hash": "b9daf8dc4472cfe2455bcbb8fbd552802d4c11b4"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW1.pdf": {
+    "size": 183999,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW2.pdf": {
+    "size": 75768,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW3.pdf": {
+    "size": 135378,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW4.pdf": {
+    "size": 154039,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW5.pdf": {
+    "size": 510874,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW6.pdf": {
+    "size": 1995255,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW7.pdf": {
+    "size": 774296,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "assignments/2024_MXJ_version/MaxwellJay-DIP-HW8.pdf": {
+    "size": 248160,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "course_design/.gitkeep": {
+    "size": 0,
+    "time": 1737639400,
+    "hash": "ff79df913d5699e2f941d7bc3ff3f3e9b0a79b50"
+  },
+  "course_design/2022课程设计规则.pptx": {
+    "size": 19939433,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "course_design/DIP_project_2022.zip": {
+    "size": 8477,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "course_design/LJH_VERSION_2023/数字图像处理课设报告.docx": {
+    "size": 962940,
+    "time": 1732206141,
+    "hash": "4879aeb2ff5123e7304a9eb7d9912ca9a1817bad"
+  },
+  "course_design/LJH_VERSION_2023/答辩.pptx": {
+    "size": 12388113,
+    "time": 1732206141,
+    "hash": "4879aeb2ff5123e7304a9eb7d9912ca9a1817bad"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "exams/22秋数字图像处理期末试题（回忆版）.docx": {
+    "size": 13214,
+    "time": 1734852497,
+    "hash": "688dd5d3d7ebfee4bc69b4b8e7ea14898fc79f0a"
+  },
+  "exams/23秋数字图像处理期末试题（回忆版）.pdf": {
+    "size": 200316,
+    "time": 1734852497,
+    "hash": "688dd5d3d7ebfee4bc69b4b8e7ea14898fc79f0a"
+  },
+  "exams/24秋数字图像处理期末试题（回忆版）.pdf": {
+    "size": 1194799,
+    "time": 1734852497,
+    "hash": "688dd5d3d7ebfee4bc69b4b8e7ea14898fc79f0a"
+  },
+  "exams/DIP 2021年回忆版本.pdf": {
+    "size": 115121,
+    "time": 1701180533,
+    "hash": "77883aee8bc4f1d92285229961bac269d3307c1d"
+  },
+  "exams/DIP_Cheat_Sheet-2024-Maxwell_Jay.pdf": {
+    "size": 264150,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "exams/DIP小抄-建议自己再手写补上傅里叶变换公式.docx": {
+    "size": 61827,
+    "time": 1701917145,
+    "hash": "792c15153dead2a91c7e199f988d07c09922f238"
+  },
+  "exams/DIP考试A4纸.pdf": {
+    "size": 466457,
+    "time": 1701180533,
+    "hash": "77883aee8bc4f1d92285229961bac269d3307c1d"
+  },
+  "exams/lsqDip(4).pdf": {
+    "size": 11741180,
+    "time": 1701180533,
+    "hash": "77883aee8bc4f1d92285229961bac269d3307c1d"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "labs/dip_pkg_2023.zip": {
+    "size": 18847,
+    "time": 1737778611,
+    "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737639400,
+    "hash": "ff79df913d5699e2f941d7bc3ff3f3e9b0a79b50"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737639400,
+    "hash": "ff79df913d5699e2f941d7bc3ff3f3e9b0a79b50"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737639400,
+    "hash": "ff79df913d5699e2f941d7bc3ff3f3e9b0a79b50"
+  },
+  "tag.txt": {
+    "size": 91,
+    "time": 1699348321,
+    "hash": "d7911914d3de07b067ed030e8107f854787a3dfb"
+  }
+}
