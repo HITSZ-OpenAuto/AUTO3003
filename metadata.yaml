@@ -1,0 +1,258 @@
+- Major:
+    - Year: "2019_2020"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "选修"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 6
+    - Name: 实验
+      Hour: 6
+
+- Major:
+    - Year: "2020_2021"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 6
+    - Name: 实验
+      Hour: 6
+
+- Major:
+    - Year: "2021_2022"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "36.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 6
+    - Name: 实验
+      Hour: 6
+
+- Major:
+    - Year: "2022_2023"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "选修"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 4
+    - Name: 实验
+      Hour: 4
+
+- Major:
+    - Year: "2023_2024"
+      Name: [ "自动化", "自动化（第二学士学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 4
+    - Name: 实验
+      Hour: 4
+
+- Major:
+    - Year: "2024_2025"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 4
+    - Name: 实验
+      Hour: 4
+
+- Major:
+    - Year: "2025_2026"
+      Name: [ "自动化", "自动化（第二学士学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO3003"
+  CourseName: "数字图像处理"
+  Credit: "2.0"
+  CourseHour: "34.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: 作业
+      Percentage: 10
+    - Name: 出勤
+      Percentage: 5
+    - Name: 实验
+      Percentage: 20
+    - Name: 课程设计
+      Percentage: 25
+    - Name: 期末考试
+      Percentage: 40
+  CourseHourComposition:
+    - Name: 授课
+      Hour: 24
+    - Name: 上机
+      Hour: 4
+    - Name: 实验
+      Hour: 6
