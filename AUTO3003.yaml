@@ -1,0 +1,93 @@
+# 歧义与未处理信息:
+# - 多个区块 (关于考试, 实验与课程设计, 学习建议) 的提交者 "Maxwell Jay" 旁边标注了日期 "2025.1"，此日期信息未在现有字段中体现。
+# - 教材《数字图像处理（第四版）》的补充信息（如价格、英文原版详情）无法放入标准字段。
+# - “实验与课程设计”部分内容详细，因无特定字段，其描述性文字被放入 misc 板块，相关链接放入 related_links 板块。
+course_name: "数字图像处理"
+course_code: ""
+notices: ""
+grading:
+  "0000": "作业(10%) + 课程设计(25%) + 实验(20%) + 期末考试(45%)"
+teachers:
+  - name: "陈浩耀"
+    reviews: []
+  - name: "吴晓军"
+    reviews:
+      - content: |
+          授课风格：全英文课件，由于内容多学时少所以讲得很快。考勤的方式是上课时让所有同学在一张纸上写名字，据我观察出勤率很低。
+          听课建议：学习内容之间的耦合关系比较强，所以如果某一节没听，后面想跟上就很难了。但是不必担心，大家都一样跟不上。
+        submitter:
+          name: ""
+          link: ""
+textbooks:
+  - title: "数字图像处理"
+    author: "[美] Rafael C. Gonzalez / [美] Richard E. Woods"
+    publisher: "电子工业出版社"
+    edition: "第四版"
+    type: "textbook"
+    submitter:
+      name: ""
+      link: ""
+  - title: "图像工程 (上册)"
+    author: "章毓晋"
+    publisher: "清华大学出版社"
+    edition: "第4版"
+    type: "reference"
+    submitter:
+      name: ""
+      link: ""
+online_resources: []
+about_course:
+  - content: "作业基本来自《数字图像处理》的课后题。原书中只有部分题目给出了参考答案。"
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: |
+      考试为半开卷，允许携带计算器和一张 A4 纸小抄。
+      题型包括填空题、简答题。
+
+      考试会涉及需要理解、实操的知识，例如给出图像形态学操作后的结果，只凭小抄是解决不了的。
+
+      如果想考高分，除了~~要到~~准备一份高质量的小抄，建议至少理解作业里的题是怎么做的。
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+study_advice:
+  - content: |
+      数图整体不难，考试也不涉及复杂的计算，但课程的安排使得整个战线很长。
+      表面上看，授课只持续半个学期，但实际上期末考试结束了，课设还没开始，对于想要速通拿到学分的朋友会有点难受。
+
+      就知识本身而言，数字图像处理对于机器人竞赛的中的视觉部分等实际应用还是有一些帮助的，毕竟处理图像是理解图像的前提。
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+schedule: []
+related_links:
+  - content: "2024 年实验内容参考: https://github.com/MaxwellJay256/dip_ws_2024"
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+  - content: "课程设计代码参考: https://github.com/MaxwellJay256/DDR4"
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+  - content: "longlin 的课设幻灯片: https://pre.longlin.tech/"
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+misc:
+  - content: |
+      实验均为实物实验，现场验收，不需要写实验报告。
+      建议课前准备好代码，因为除非自己配置环境，实验必须在实验室提供的笔记本电脑上进行，至于电脑上有没有 VS Code、ChatGPT 等工具就不一定了。如果空着手来，就等着一行行在文本编辑器里写代码吧😈，包拖堂的。
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
+  - content: |
+      课程设计则是利用实验室的移动机器人，实现基于视觉的导航任务，约等于前面实验的综合应用。
+      允许一人独立完成或者两人组队，分数上没有区别。
+      课设是结课后才开始的，由老师发布任务，指定实验室开放时间，最后在一两天内集中考核和答辩。
+      1. 考核由老师现场验收任务的完成情况。陈老师比吴老师严。
+      2. 答辩由助教负责，展示一下任务完成的思路，基本上不可能为难你。
+    submitter:
+      name: "Maxwell Jay"
+      link: "https://github.com/MaxwellJay256"
