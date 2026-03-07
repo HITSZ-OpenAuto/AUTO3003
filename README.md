@@ -1,4 +1,6 @@
 # AUTO3003 - 数字图像处理
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
@@ -12,15 +14,22 @@
 
 - 陈浩耀
 - 吴晓军
+  <!-- TOML-ITEM: id="review-吴晓军-1" -->
   - 全英文课件，由于内容多学时少所以讲得很快。考勤的方式是上课时让所有同学在一张纸上写名字，据我观察出勤率很低。
   - 学习内容之间的耦合关系比较强，所以如果某一节没听，后面想跟上就很难了。但是不必担心，大家都一样跟不上。
 
 ## 教材
+<!-- TOML-SECTION: title="教材" -->
+
+<!-- TOML-ITEM: id="item-教材-1" -->
 
 - **数字图像处理（第四版）**（[美] Rafael C. Gonzalez / [美] Richard E. Woods / 电子工业出版社 / 第四版 / textbook）
 - **图像工程（第4版）上册**（章毓晋 / 清华大学出版社 / 第4版 / textbook）
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 考试为半开卷，允许携带计算器和一张 A4 纸小抄。
 题型包括填空题、简答题。
@@ -32,6 +41,9 @@
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2025-01
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 **实验**均为实物实验，2024 年的实验内容可以参考 [MaxwellJay256/dip_ws_2024](https://github.com/MaxwellJay256/dip_ws_2024)。
 
@@ -51,6 +63,9 @@
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2025-01
 
 ## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 数图整体不难，考试也不涉及复杂的计算，但课程的安排使得整个战线很长。
 表面上看，授课只持续半个学期，但实际上期末考试结束了，课设还没开始，对于想要速通拿到学分的朋友会有点难受。
@@ -60,10 +75,16 @@
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，2025-01
 
 ## 相关链接
+<!-- TOML-SECTION: title="相关链接" -->
+
+<!-- TOML-ITEM: id="item-相关链接-1" -->
 
 - MaxwellJay256/DDR4: <https://github.com/MaxwellJay256/DDR4>
 - longlin 的课设幻灯片: <https://pre.longlin.tech/>
 
 ## 作业
+<!-- TOML-SECTION: title="作业" -->
+
+<!-- TOML-ITEM: id="item-作业-1" -->
 
 作业基本来自《数字图像处理》的课后题。原书中只有部分题目给出了参考答案。
