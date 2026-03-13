@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 陈浩耀
 - 吴晓军
   <!-- TOML-ITEM: id="review-吴晓军-1" -->

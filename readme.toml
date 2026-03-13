@@ -1,20 +1,21 @@
 course_name = "数字图像处理"
-repo_type = "normal"
 course_code = "AUTO3003"
+repo_type = "normal"
 description = "数字图像处理课程资料。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "陈浩耀"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "吴晓军"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 全英文课件，由于内容多学时少所以讲得很快。考勤的方式是上课时让所有同学在一张纸上写名字，据我观察出勤率很低。
 学习内容之间的耦合关系比较强，所以如果某一节没听，后面想跟上就很难了。但是不必担心，大家都一样跟不上。
 """
-
 
 [[sections]]
 title = "教材"
@@ -24,7 +25,6 @@ content = """
 - **数字图像处理（第四版）**（[美] Rafael C. Gonzalez / [美] Richard E. Woods / 电子工业出版社 / 第四版 / textbook）
 - **图像工程（第4版）上册**（章毓晋 / 清华大学出版社 / 第4版 / textbook）
 """
-
 
 [[sections]]
 title = "关于考试"
@@ -39,7 +39,6 @@ content = """
 如果想考高分，除了~~要到~~准备一份高质量的小抄，建议至少理解作业里的题是怎么做的。
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" }
-
 
 [[sections]]
 title = "关于实验"
@@ -63,7 +62,6 @@ content = """
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" }
 
-
 [[sections]]
 title = "学习建议"
 
@@ -76,7 +74,6 @@ content = """
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" }
 
-
 [[sections]]
 title = "相关链接"
 
@@ -85,7 +82,6 @@ content = """
 - MaxwellJay256/DDR4: <https://github.com/MaxwellJay256/DDR4>
 - longlin 的课设幻灯片: <https://pre.longlin.tech/>
 """
-
 
 [[sections]]
 title = "作业"
