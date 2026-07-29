@@ -80,8 +80,8 @@
 
 <!-- TOML-ITEM: id="item-相关链接-1" -->
 
-- MaxwellJay256/DDR4: <https://github.com/MaxwellJay256/DDR4>
-- longlin 的课设幻灯片: <https://pre.longlin.tech/>
+- MaxwellJay256/DDR4: [https://github.com/MaxwellJay256/DDR4](https://github.com/MaxwellJay256/DDR4)
+- longlin 的课设幻灯片: [https://pre.longlin.tech/](https://pre.longlin.tech/)
 
 ## 作业
 <!-- TOML-SECTION: title="作业" -->
