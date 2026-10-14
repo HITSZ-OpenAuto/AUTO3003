@@ -1,12 +1,5 @@
 # AUTO3003 - 数字图像处理
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![课程设计25%](https://img.shields.io/badge/课程设计-25%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期末考试45%](https://img.shields.io/badge/期末考试-45%25-wheat)
 
 数字图像处理课程资料。
 
