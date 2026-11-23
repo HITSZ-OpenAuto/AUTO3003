@@ -69,6 +69,46 @@
     "time": 1737778611,
     "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
   },
+  "assignments/2025_BCC/作业1.pdf": {
+    "size": 2573698,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业2.pdf": {
+    "size": 1708693,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业3.pdf": {
+    "size": 7165962,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业4.pdf": {
+    "size": 6559600,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业5.pdf": {
+    "size": 4424852,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业6.pdf": {
+    "size": 1309215,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业7.pdf": {
+    "size": 3092767,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
+  "assignments/2025_BCC/作业8.pdf": {
+    "size": 2243610,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
+  },
   "course_design/.gitkeep": {
     "size": 0,
     "time": 1737639400,
@@ -143,6 +183,11 @@
     "size": 0,
     "time": 1737778611,
     "hash": "cf8aed4e4d5f097ecb8ec4461228a8bb0121dc50"
+  },
+  "labs/2025_BCC/数字图像处理实验报告.docx": {
+    "size": 27647094,
+    "time": 1795393346,
+    "hash": "ca5abf96abcab4d8b620bc17885614ec8efa570f"
   },
   "labs/dip_pkg_2023.zip": {
     "size": 18847,
